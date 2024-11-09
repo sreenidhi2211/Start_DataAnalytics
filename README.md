@@ -3,4 +3,4 @@ This my first git repository
 <br>
 This is my first step in my journey of learning data analysis 
 <br>
-Done By-Sreenidhi
+This python code perfotms basic EDA on sales data-2019
