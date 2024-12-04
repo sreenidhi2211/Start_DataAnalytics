@@ -1,6 +1,6 @@
 # EDA-_sales-Data
 This my first git repository
 <br>
-This is my first step in my journey of learning data analysis 
+These are  my starting steps of my journey of learning data analysis 
 <br>
-This python code performs basic EDA on sales data-2019
+1.This python code performs basic EDA on sales data-2019
