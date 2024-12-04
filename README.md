@@ -17,4 +17,4 @@ This is project introduction to numpy
 This is my introduction to data visualization and matplotlib
 <br>
 # 5.Campus_r.ipynb
-This is first project using R programming as apart my academics
+This is first project using R programming as a part my academics
