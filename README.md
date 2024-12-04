@@ -7,10 +7,12 @@ This python code performs basic EDA on sales data-2019.
 It is my introduction to Data analytics.
 This is the project that made me believe I belong to Data Science
 <br>
-# 2.PANDAS.ipynb
+# 2.PANDAS.ipynb:
 This is project is my introduction to pandas 
 <br>
-# 3.NUMPY.ipynb
+# 3.NUMPY.ipynb:
 This is project introduction to numpy
 <br>
+# 4.MATPLOTLIB.ipynb:
+This is my introduction to data visualization and matplotlib
 
