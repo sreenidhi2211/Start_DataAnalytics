@@ -1,6 +1,6 @@
 # Start_DataAnalytics
 This my first git repository
-These are  my starting steps of my journey of learning data analysis 
+These are  my starting steps of my journey in learning data analysis 
 <br>
 # 1.Sales_EDA.ipynb: 
 This python code performs basic EDA on sales data-2019.
